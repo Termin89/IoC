@@ -1,0 +1,19 @@
+{
+  "name": "ioc",
+  "version": "1.0.0",
+  "description": "This project created a DI problem when designing modules or applications. And TS - a problem of control of interfaces of their expansion. And to abstract the project from the technologies that they decided to use in the project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Termin89/IoC.git"
+  },
+  "author": "Alexey Yakovlev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Termin89/IoC/issues"
+  },
+  "homepage": "https://github.com/Termin89/IoC#readme"
+}
